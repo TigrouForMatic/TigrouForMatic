@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm TigrouForMatic, a passionate full-stack web developer and experienced assistant project manager. Welcome to my GitHub profile! Here's a little about me:
+I'm Jules Chassany, a passionate full-stack web developer and experienced assistant project manager. Welcome to my GitHub profile! Here's a little about me:
 
 - 🔭 I’m currently working on enhancing my skills in full-stack web development and exploring new technologies.
 - 🌱 I’m currently learning advanced concepts in React.js and diving deeper into Node.js.
