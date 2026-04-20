@@ -6,7 +6,7 @@ I'm Jules Chassany, a passionate full-stack web developer and experienced assist
 - 🌱 I’m currently learning advanced concepts in React.js and diving deeper into Node.js.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about anything related to web development, project management, or technology in general!
-- 📫 You can reach me via email at [jules.chassany@gmail.com](mailto:jules.chassany@gmail.com).
+- 📫 You can reach me via email at [jules@everyweb.fr](mailto:jules@everyweb.fr).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid hiker and love exploring nature whenever I get the chance!
 
